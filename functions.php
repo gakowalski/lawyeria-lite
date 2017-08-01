@@ -52,6 +52,11 @@ function lawyeria_lite_theme_setup() {
 		);
 	add_theme_support( 'custom-header', $args );
 
+	/**
+	 *  Add post title support.
+	 */
+    add_theme_support( "title-tag" );
+
 }
 
 add_action( 'after_setup_theme', 'lawyeria_lite_theme_setup' );
