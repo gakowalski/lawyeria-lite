@@ -1,0 +1,21 @@
+<wpml-config>
+	<admin-texts>
+		<key name='theme_mods_lawyeria-lite'>
+			<key name='lawyeria_lite_header_title' />
+			<key name='lawyeria_lite_header_subtitle' />
+			<key name='lawyeria_lite_frontpage_header_title' />
+			<key name='lawyeria_lite_frontpage_header_content' />
+			<key name='lawyeria_lite_frontpage_subheader_title' />
+			<key name='lawyeria_lite_frontpage_firstlybox_title' />
+			<key name='lawyeria_lite_frontpage_firstlybox_content' />
+			<key name='lawyeria_lite_frontpage_secondlybox_title' />
+			<key name='lawyeria_lite_frontpage_secondlybox_content' />
+			<key name='lawyeria_lite_frontpage_thirdlybox_title' />
+			<key name='lawyeria_lite_frontpage_thirdlybox_content' />
+			<key name='lawyeria_lite_frontpage_thecontent_title' />
+			<key name='lawyeria_lite_frontpage_thecontent_content' />
+			<key name='lawyeria_lite_404_title' />
+			<key name='lawyeria_lite_404_content' />
+		</key>
+    </admin-texts>
+</wpml-config>
